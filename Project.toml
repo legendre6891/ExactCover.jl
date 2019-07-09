@@ -1,0 +1,8 @@
+name = "ExactCover"
+uuid = "04401f94-7f1b-11e9-39a3-eb8fc40dd58a"
+authors = ["Kevin Kainan Li <kli6891@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+ResumableFunctions = "c5292f4c-5179-55e1-98c5-05642aab7184"
